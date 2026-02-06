@@ -26,11 +26,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-piccoli-623342150)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brpiccoli)
 
-## 📊 GitHub Stats
-
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brpiccoli&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brpiccoli&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF)
 
 ## 📍 Location
 
